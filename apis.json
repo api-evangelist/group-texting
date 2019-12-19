@@ -1,0 +1,59 @@
+{
+    "name": "Group Texting",
+    "description": "Send Mass Text Messages from your computer using our long codes for fast, affordable, hassle-free bulk SMS marketing campaigns. Setup is free. Get going in 60 seconds.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/603-group-texting.jpg",
+    "tags": [
+        "api provider",
+        "global",
+        "have api",
+        "telecommunications",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/group-texting\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Group Texting",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/603-group-texting.jpg",
+            "humanURL": "http:\/\/grouptexting.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/group-texting-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/twitter.com\/playhaven"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.grouptexting.com\/feed\/"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@grouptexting.com"
+        },
+        {
+            "type": "Email",
+            "url": "answers@GroupTexting.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/GroupTexting"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/grouptexting.com"
+        }
+    ]
+}
